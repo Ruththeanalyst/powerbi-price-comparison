@@ -14,10 +14,6 @@ Power BI dashboard comparing product prices across stores to identify cheaper op
 - Conditional formatting and chart customization  
 - Dashboard layout and design  
 
-## Screenshots
-
-### Full Dashboard
-![Full Dashboard](screenshots/full_dashboard.png)
-
-### Price Comparison by Product
-![Price Comparison](screenshots/price_comparison.png)
+## Files in This Repository
+- Power BI dashboard (.pbix)
+- Project documentation with screenshots
